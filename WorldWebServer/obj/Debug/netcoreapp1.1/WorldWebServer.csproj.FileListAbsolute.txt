@@ -1,0 +1,19 @@
+C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.deps.json
+C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.runtimeconfig.json
+C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.runtimeconfig.dev.json
+C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.dll
+C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.pdb
+C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.AssemblyInfo.cs
+C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.dll
+C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.pdb
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.deps.json
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.runtimeconfig.json
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.runtimeconfig.dev.json
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.dll
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.pdb
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.csprojResolveAssemblyReference.cache
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.csproj.CoreCompileInputs.cache
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.AssemblyInfoInputs.cache
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.AssemblyInfo.cs
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.dll
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.pdb
