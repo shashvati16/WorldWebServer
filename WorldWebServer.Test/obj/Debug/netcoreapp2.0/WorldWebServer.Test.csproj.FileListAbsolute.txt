@@ -1,0 +1,15 @@
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.Test.deps.json
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.Test.runtimeconfig.json
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.Test.runtimeconfig.dev.json
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.Test.dll
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.Test.pdb
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\bin\Debug\netcoreapp2.0\worldwebserver.dll
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\bin\Debug\netcoreapp2.0\worldwebserver.pdb
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\obj\Debug\netcoreapp2.0\WorldWebServer.Test.csproj.CoreCompileInputs.cache
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\obj\Debug\netcoreapp2.0\WorldWebServer.Test.AssemblyInfoInputs.cache
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\obj\Debug\netcoreapp2.0\WorldWebServer.Test.AssemblyInfo.cs
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\obj\Debug\netcoreapp2.0\WorldWebServer.Test.dll
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\obj\Debug\netcoreapp2.0\WorldWebServer.Test.pdb
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Start\WorldWebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
